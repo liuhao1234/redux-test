@@ -1,0 +1,32 @@
+.app{
+	overflow: hidden;
+	width:400px;
+	border:1px solid #ededed;
+	margin:0 auto;
+}
+.add{
+	width:200px;
+	float:left;
+	height: 200px;
+	text-align: center;
+	line-height: 200px;
+	cursor: pointer;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+}
+.show{
+	width:200px;
+	float: right;
+	height: 200px;
+	text-align: center;
+	line-height: 200px;
+	cursor: pointer;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+}
